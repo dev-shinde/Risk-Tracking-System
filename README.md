@@ -11,7 +11,7 @@ The risk assessment component analyzes the collected data to evaluate the potent
 Based on the risk assessment, the decision support component provides recommendations to the trackers regarding whether it is safe to climb the hill and at what height they should stop. The system can provide clear guidelines, such as suggesting height limits based on age and assistance level. It may also incorporate additional safety measures, such as mandatory equipment requirements or weather conditions, to further enhance the decision-making process.
 
 4. User Interface
-The user interface component involves designing a user-friendly interface where trackers can input their details and receive risk assessment results and recommendations. The interface should be intuitive, visually appealing, and accessible on various devices. It can be developed using web technologies such as HTML, CSS, and JavaScript, ensuring a responsive layout that adapts to different screen sizes.
+The user interface component involves designing a user-friendly interface where trackers can input their details and receive risk assessment results and recommendations. The interface should be intuitive, visually appealing, and accessible on various devices.
 
 5. Data Storage and Logging
 The project should incorporate a mechanism for storing trackers' data and maintaining a log of risk assessments and decisions. This allows for tracking and reviewing past assessments, monitoring trends, and conducting future analysis. A database or file storage system can be utilized to securely store the data, ensuring privacy and compliance with relevant data protection regulations.
