@@ -2,7 +2,7 @@ Project Structure
 The project can be structured into the following key components:
 
 1. Data Collection
-Data collection involves gathering relevant information about the trackers, such as their age, level of assistance required, and the distance they intend to climb. This information can be obtained through a user interface or an API that allows trackers to input their details. Additionally, other relevant data, such as historical incident reports or safety guidelines for hill climbing, can be collected from trusted sources.
+Data collection involves gathering relevant information about the trackers, such as their age, level of assistance required, and the distance they intend to climb. This information can be obtained through a user interface that allows trackers to input their details. Additionally, other relevant data, such as historical incident reports or safety guidelines for hill climbing, can be collected from trusted sources.
 
 2. Risk Assessment
 The risk assessment component analyzes the collected data to evaluate the potential risks associated with hill climbing. The system considers factors such as age, level of assistance, and distance to determine the level of risk for each tracker. This assessment can be performed using predefined rules, algorithms, or machine learning techniques that take into account known risk factors and best practices in hill climbing safety.
